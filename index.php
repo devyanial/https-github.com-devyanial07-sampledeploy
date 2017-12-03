@@ -6,7 +6,7 @@
 
 <?php
 echo "approval testing success";
-echo "Version:1.0.0 re-work-ver:approve";
+echo "\n\tVersion:1.0.0 re-work-ver:approve";
 ?>
 
 </body>
